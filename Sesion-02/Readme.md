@@ -3,7 +3,7 @@
 
 ### 1. Objetivos
 
-- Comprender el cocncepto de distribución e identificar la distribución de nuestros datos junto con su importancia.
+- Comprender el concepto de distribución e identificar la distribución de nuestros datos junto con su importancia.
 - Utilizar la librería Seaborn.
 - Conocer los boxplots y aprender a generarlos.
 - Conocer las tablas de frecuencias y los histogramas como maneras de visualizar distribuciones.
